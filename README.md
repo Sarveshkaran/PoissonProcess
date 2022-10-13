@@ -25,8 +25,8 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 
 # Program :
 ### Developed by
-### Register Number: 212220230022
-### Name: Harshini M
+### Register Number: 212221230089
+### Name: Sarveshkaran vk
 ```
 import numpy as np
 import math
